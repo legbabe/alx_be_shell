@@ -1,5 +1,3 @@
-# alx_be_shell
-
 #!/bin/bash
 
 ## 0-iam_betty
@@ -18,4 +16,4 @@ This script adds execute permission to the owner of the file 'hello'
 This script grants execute access to owner and group whiles giving read only access to others for hello file
 
 ## 9-John_Doe
-This script was created using shell permission modes for file hello 
+This script was created using shell permission modes for file hello
